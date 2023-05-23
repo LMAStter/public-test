@@ -1,7 +1,7 @@
 {
-    "url": "https://raw.githubusercontent.com/0x1bug/xss/main/xss.yaml",
+    "url": "https://raw.githubusercontent.com/LMAStter/public-test/main/bla2.yaml",
     "urls": [{
-        "url": "https://raw.githubusercontent.com/0x1bug/xss/main/xss.yaml",
+        "url": "https://raw.githubusercontent.com/LMAStter/public-test/main/bla2.yaml",
         "name": "HTML Injection (By aaaaaaaaaaaaaaaaaaaaa)"
     }]
 }
