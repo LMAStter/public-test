@@ -1,5 +1,5 @@
 {
-    "url": "https://raw.githubusercontent.com/LMAStter/public-test<img src=x>/main/bla2.yaml",
+    "url": "https://raw.githubusercontent.com/LMAStter/public-test/main/bla2.yaml",
     "urls": [{
         "url": "https://raw.githubusercontent.com/LMAStter/public-test/main/bla2.yaml",
         "name": "HTML Injection (By aaaaaaaaa<img src=x>aaaaaaaaaaaa)"
